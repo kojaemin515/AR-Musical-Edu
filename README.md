@@ -18,3 +18,4 @@ Microsoft Hololens 2 기기와 자체제작 하드웨어를 활용한
 > 2024 상반기 졸업작품 우수작 선정 (43개 팀 중 상위 12팀)
 ## 프로젝트 상세
 ### 1. AR 어플리케이션
+![어플리케이션 UI](https://github.com/user-attachments/assets/c1447fbb-67f4-4590-905b-252e927378c5)
