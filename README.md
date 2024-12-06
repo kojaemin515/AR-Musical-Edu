@@ -27,5 +27,7 @@ Microsoft Hololens 2 기기와 자체제작 하드웨어를 활용한
 > ![햅틱 스틱](https://github.com/user-attachments/assets/84b592a7-1fc9-4a4f-846a-c604fdc1ed61)
 > ![햅틱 패드](https://github.com/user-attachments/assets/3a0b2ed7-50ce-4efe-98ec-217723f2856c)
 > ![진동감 제공](https://github.com/user-attachments/assets/01d8879a-a370-4cf0-818c-be5b2e7a9adc)
+> - 완성된 햅틱 디바이스
+> ![햅틱 디바이스](https://github.com/user-attachments/assets/153b84d5-e967-4a08-867b-f7d150dbae3a)
 ### 3. 시연 영상 (리듬게임 콘텐츠)
 ![시연](https://github.com/user-attachments/assets/692269c2-2533-4dee-a382-be63b2dfd7bf)
